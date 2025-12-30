@@ -1,6 +1,25 @@
 ## 👋 Hi there, I'm Arefin Emon
 
 ### 🚀 Full Stack Developer | MERN | Next.js | TypeScript | Frontend & Backend Expertise | Web App Development 
+<p align="center">
+  <img src="https://img.shields.io/badge/Find%20Me%20On-black?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-website-tz4n.vercel.app">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arefin-emon-7285a4373">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="arefinemon308@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://github.com/ArefinEmon860">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 I am a Full Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js) and modern frontend frameworks like Next.js with TypeScript. I have hands-on experience building and deploying dynamic web applications, ranging from responsive frontend interfaces to robust backend systems.
 I excel at designing and integrating scalable RESTful APIs, creating intuitive user experiences, and optimizing performance across the entire application stack. My projects demonstrate my ability to handle both frontend and backend responsibilities, from crafting interactive UI components to implementing secure server-side logic.
 Passionate about continuous learning and problem-solving, I aim to contribute to innovative projects as a Full Stack, Frontend, or Backend Developer, delivering high-quality, efficient, and user-centered web applications.
