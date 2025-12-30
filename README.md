@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Arefin Emon
 
-### 🚀 Full Stack Developer | MERN | Next.js | TypeScript | Frontend & Backend Expertise | Web App Development 
+### 🚀 Full Stack Developer | MERN | Next.js | TypeScript | Frontend & Backend Expertise 
 <p align="left">
   <a href="Find Me On">
     <img src="https://img.shields.io/badge/Find%20Me%20On-black?style=for-the-badge" /> 
