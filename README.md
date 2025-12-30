@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Arefin Emon
 
-### 🚀 Full Stack Developer | MERN | Next.js | TypeScript | Frontend & Backend Expertise 
+### 🚀 Software Engineer
 <p align="left">
   <a href="Find Me On">
     <img src="https://img.shields.io/badge/Find%20Me%20On-black?style=for-the-badge" /> 
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-I am a Full Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js) and modern frontend frameworks like Next.js with TypeScript. I have hands-on experience building and deploying dynamic web applications, ranging from responsive frontend interfaces to robust backend systems.
+I am a Software Engineer specializing in the MERN stack (MongoDB, Express, React, Node.js) and modern frontend frameworks like Next.js with TypeScript. I have hands-on experience building and deploying dynamic web applications, ranging from responsive frontend interfaces to robust backend systems.
 I excel at designing and integrating scalable RESTful APIs, creating intuitive user experiences, and optimizing performance across the entire application stack. My projects demonstrate my ability to handle both frontend and backend responsibilities, from crafting interactive UI components to implementing secure server-side logic.
 Passionate about continuous learning and problem-solving, I aim to contribute to innovative projects as a Full Stack, Frontend, or Backend Developer, delivering high-quality, efficient, and user-centered web applications.
 
