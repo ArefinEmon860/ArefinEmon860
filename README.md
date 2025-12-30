@@ -71,7 +71,3 @@ Passionate about continuous learning and problem-solving, I aim to contribute to
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
 
-## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/arefin-emon-7285a4373  
-- 🌐 Portfolio: https://portfolio-website-tz4n.vercel.app/
-- 📧 Email: arefinemon308@gmail.com
