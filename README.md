@@ -46,8 +46,7 @@ Passionate about continuous learning and problem-solving, I aim to contribute to
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=green)
-
-## ⚙️ Tools & Platforms
+![Mongoose](https://img.shields.io/badge/Mongoose-111111?style=for-the-badge&logo=mongoose&logoColor=880000)
 
 ## ⚙️ Tools & Platforms
 
