@@ -3,7 +3,7 @@
 ### 🚀 Full Stack Developer | MERN | Next.js | TypeScript | Frontend & Backend Expertise | Web App Development 
 <p align="left">
   <a href="Find Me On">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Find%20Me%20On-black?style=for-the-badge" /> 
   </a>
   <a href="https://portfolio-website-tz4n.vercel.app">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
