@@ -14,9 +14,6 @@
   <a href="mailto:arefinemon308@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://github.com/ArefinEmon860">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 I am a Full Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js) and modern frontend frameworks like Next.js with TypeScript. I have hands-on experience building and deploying dynamic web applications, ranging from responsive frontend interfaces to robust backend systems.
