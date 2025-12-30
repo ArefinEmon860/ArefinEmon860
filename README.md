@@ -1,32 +1,30 @@
-## 👋 Hi there, I'm [Your Name]
+## 👋 Hi there, I'm Arefin Emon
 
-### 🚀 Full Stack Developer | MERN & Next.js | TypeScript  
-I am a passionate Full Stack Developer with hands-on experience in building modern, scalable, and high-performance web applications using the MERN stack (MongoDB, Express, React, Node.js), along with Next.js and TypeScript.
-
-I enjoy working across the entire development lifecycle — from crafting responsive and intuitive user interfaces to designing secure, efficient backend systems and RESTful APIs. I focus on writing clean, maintainable code and delivering real-world solutions that provide value to users.
-
----
+### 🚀 Full Stack Developer | MERN | Next.js | TypeScript | Frontend & Backend Expertise | Web App Development 
+I am a Full Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js) and modern frontend frameworks like Next.js with TypeScript. I have hands-on experience building and deploying dynamic web applications, ranging from responsive frontend interfaces to robust backend systems.
+I excel at designing and integrating scalable RESTful APIs, creating intuitive user experiences, and optimizing performance across the entire application stack. My projects demonstrate my ability to handle both frontend and backend responsibilities, from crafting interactive UI components to implementing secure server-side logic.
+Passionate about continuous learning and problem-solving, I aim to contribute to innovative projects as a Full Stack, Frontend, or Backend Developer, delivering high-quality, efficient, and user-centered web applications.
 
 ## 💼 What I Do
-- Build **responsive and user-friendly frontend applications**
-- Develop **robust backend systems and REST APIs**
-- Create **full stack MERN applications** with authentication and database integration
-- Optimize application **performance, scalability, and security**
-- Collaborate remotely and deliver projects on time
-
----
+- Build **modern, responsive, and accessible frontend interfaces** using React, Next.js, and TypeScript
+- Develop **scalable and secure backend systems** with Node.js, Express, and RESTful APIs
+- Create **end-to-end full stack MERN applications**, handling both client-side and server-side logic
+- Design and integrate **authentication, authorization, and database-driven features**
+- Optimize application **performance, scalability, and maintainability**
+- Write **clean, reusable, and well-structured code** following best practices
+- Collaborate remotely, understand requirements, and **deliver production-ready solutions**
 
 ## 🔭 Currently Working On
-- Full Stack MERN & Next.js applications  
-- Improving frontend performance and UX  
-- Writing scalable backend APIs with Node.js  
+- Building **full stack MERN applications** with React, Next.js, and Node.js
+- Developing **scalable frontend interfaces** using Next.js & TypeScript
+- Creating and integrating **RESTful APIs** with authentication and database support
+- Improving application **performance, code quality, and user experience**
 
 ## 🌱 Currently Learning
-- Advanced Next.js & server-side rendering  
-- Backend optimization & system design concepts  
-- Clean architecture & best coding practices  
-
----
+- Advanced **Next.js features** (SSR, SSG, performance optimization)
+- Backend **architecture, scalability, and best practices**
+- Writing **clean, maintainable, and testable code**
+- Exploring **real-world system design concepts**
 
 ## 🛠️ Tools & Technologies
 
@@ -47,18 +45,19 @@ I enjoy working across the entire development lifecycle — from crafting respon
 ![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=postman)
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=green)
 
-### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+## ⚙️ Tools & Platforms
+
+## ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
 
----
-
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/yourusername  
-- 🌐 Portfolio: https://yourportfolio.com  
-- 📧 Email: your@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/arefin-emon-7285a4373  
+- 🌐 Portfolio: https://portfolio-website-tz4n.vercel.app/
+- 📧 Email: arefinemon308@gmail.com
