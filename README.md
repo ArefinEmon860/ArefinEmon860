@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/arefin-emon-7285a4373">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="arefinemon308@gmail.com">
+  <a href="mailto:arefinemon308@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
