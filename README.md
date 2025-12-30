@@ -1,10 +1,9 @@
 ## 👋 Hi there, I'm Arefin Emon
 
 ### 🚀 Full Stack Developer | MERN | Next.js | TypeScript | Frontend & Backend Expertise | Web App Development 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Find%20Me%20On-black?style=for-the-badge" />
 </p>
-
 <p align="center">
   <a href="https://portfolio-website-tz4n.vercel.app">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
