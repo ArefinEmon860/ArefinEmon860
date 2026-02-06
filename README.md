@@ -20,7 +20,7 @@ I am a Software Engineer specializing in backend development, with mastery in bu
 
 My expertise spans the full backend lifecycle—from system architecture and database modeling to API integration and performance optimization. I am adept at creating reliable and maintainable server-side solutions that support dynamic and responsive applications.
 
-Passionate about continuous learning and problem-solving, I strive to deliver high-quality, efficient, and secure backend systems, contributing to innovative projects as a Bacckend Software Engineer.
+Passionate about continuous learning and problem-solving, I strive to deliver high-quality, efficient, and secure backend systems, contributing to innovative projects as a Backend Software Engineer.
 
 ## 💼 What I Do
 Develop scalable, secure, and high-performance backend systems using Node.js, Express, and RESTful APIs
