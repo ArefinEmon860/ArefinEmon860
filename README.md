@@ -16,18 +16,20 @@
   </a>
 </p>
 
-I am a Software Engineer specializing in the MERN stack (MongoDB, Express, React, Node.js) and modern frontend frameworks like Next.js with TypeScript. I have hands-on experience building and deploying dynamic web applications, ranging from responsive frontend interfaces to robust backend systems.
-I excel at designing and integrating scalable RESTful APIs, creating intuitive user experiences, and optimizing performance across the entire application stack. My projects demonstrate my ability to handle both frontend and backend responsibilities, from crafting interactive UI components to implementing secure server-side logic.
-Passionate about continuous learning and problem-solving, I aim to contribute to innovative projects as a Full Stack, Frontend, or Backend Developer, delivering high-quality, efficient, and user-centered web applications.
+I am a Software Engineer specializing in backend development, with mastery in building scalable, secure, and high-performance systems using technologies such as Node.js, Express, and MongoDB. I have hands-on experience designing and implementing robust RESTful APIs, optimizing server-side logic, and managing complex data workflows.
+
+My expertise spans the full backend lifecycle—from system architecture and database modeling to API integration and performance optimization. I am adept at creating reliable and maintainable server-side solutions that support dynamic and responsive applications.
+
+Passionate about continuous learning and problem-solving, I strive to deliver high-quality, efficient, and secure backend systems, contributing to innovative projects as a Bacckend Software Engineer.
 
 ## 💼 What I Do
-- Build **modern, responsive, and accessible frontend interfaces** using React, Next.js, and TypeScript
-- Develop **scalable and secure backend systems** with Node.js, Express, and RESTful APIs
-- Create **end-to-end full stack MERN applications**, handling both client-side and server-side logic
-- Design and integrate **authentication, authorization, and database-driven features**
-- Optimize application **performance, scalability, and maintainability**
-- Write **clean, reusable, and well-structured code** following best practices
-- Collaborate remotely, understand requirements, and **deliver production-ready solutions**
+Develop scalable, secure, and high-performance backend systems using Node.js, Express, and RESTful APIs
+Design, implement, and maintain database-driven features with MongoDB.
+Architect and integrate authentication, authorization, and role-based access controls
+Build robust RESTful APIs and microservices to support dynamic applications
+Optimize server-side performance, scalability, and maintainability for production-ready systems
+Write clean, modular, and well-documented backend code following best practices
+Collaborate with teams, understand project requirements, and deliver reliable backend solutions
 
 ## 🔭 Currently Working On
 - Building **full stack MERN applications** with React, Next.js, and Node.js
@@ -36,10 +38,10 @@ Passionate about continuous learning and problem-solving, I aim to contribute to
 - Improving application **performance, code quality, and user experience**
 
 ## 🌱 Currently Learning
-- Advanced **Next.js features** (SSR, SSG, performance optimization)
-- Backend **architecture, scalability, and best practices**
-- Writing **clean, maintainable, and testable code**
-- Exploring **real-world system design concepts**
+Building scalable and secure backend systems with Node.js, Express, and RESTful APIs
+Designing and integrating authentication, authorization, and database-driven features
+Creating robust server-side logic and database models to support dynamic applications
+Optimizing backend performance, maintainability, and code quality for production-ready systems
 
 ## 🛠️ Tools & Technologies
 
