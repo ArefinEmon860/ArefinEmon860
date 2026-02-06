@@ -32,16 +32,14 @@ Write clean, modular, and well-documented backend code following best practices
 Collaborate with teams, understand project requirements, and deliver reliable backend solutions
 
 ## 🔭 Currently Working On
-- Building **full stack MERN applications** with React, Next.js, and Node.js
-- Developing **scalable frontend interfaces** using Next.js & TypeScript
-- Creating and integrating **RESTful APIs** with authentication and database support
-- Improving application **performance, code quality, and user experience**
-
-## 🌱 Currently Learning
 Building scalable and secure backend systems with Node.js, Express, and RESTful APIs
 Designing and integrating authentication, authorization, and database-driven features
 Creating robust server-side logic and database models to support dynamic applications
 Optimizing backend performance, maintainability, and code quality for production-ready systems
+
+## 🌱 Currently Learning
+Continuously exploring and mastering modern backend technologies, frameworks, and tools, including Node.js, Express, MongoDB, PostgreSQL, RESTful APIs, and microservices. 
+Actively learning best practices in system architecture, database optimization, and scalable server-side development.
 
 ## 🛠️ Tools & Technologies
 
